@@ -7,7 +7,7 @@ This theme for emulationstation is tested by raspberry 4
 
 It has some basic console themes and specific console themes, created to remember the old days, when we used the consoles .. with unique details of the time ...
 
-CGA Supported - 15 khz Monitor CRT
+CGA Supported - 15 khz Monitor CRT - 4:3 format
 
 version 0.90
 
