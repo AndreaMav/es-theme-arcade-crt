@@ -3,7 +3,9 @@ emulationstation theme
 
 i am creating a new emulationstation theme. It is created to help friends passionate about arcade cabinets with CRT monitors 15 khz to take advantage of emulationstation with my theme.
 
-This theme for emulationstation is tested by raspberry 4
+This theme for emulationstation is tested with:
+- Raspberry pi4
+- Retropie 4.5.14
 
 It has some basic console themes and specific console themes, created to remember the old days, when we used the consoles .. with unique details of the time ...
 
