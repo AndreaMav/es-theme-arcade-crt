@@ -11,7 +11,7 @@ CGA Supported - 15 khz Monitor CRT
 
 version 0.90
 
-This pre-release has this "Themes" optimez for arcade cabinet 15 khz crt :
+This pre-release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
 
 - Commodore Amiga 
 - Commodore 64
