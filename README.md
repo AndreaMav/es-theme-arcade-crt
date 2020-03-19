@@ -22,7 +22,9 @@ This pre-release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
 - Lasergame
 - Dreamcast
 - Intellivision
+- MasterSystem
 - Megadrive
+- Msx
 - Nintendo DS
 - Neo Geo
 - Nintendo Nes
