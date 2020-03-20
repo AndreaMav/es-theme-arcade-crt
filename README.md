@@ -42,4 +42,9 @@ version 0.90
 
 ##Update 20/03/2020
 
-added and test Theme Page - Nintendo Gameboy Color
+added and test Theme Page:
+- Nintendo Gameboy Color
+- Nintendo Gameboy
+- GameGear
+- Atari Lynx
+
