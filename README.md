@@ -16,7 +16,7 @@ CGA Supported - 15 khz Monitor CRT - 4:3 format
 
 version 0.90
 
-This pre-release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
+##This pre-release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
 
 - Commodore Amiga 
 - Commodore 64
@@ -40,5 +40,5 @@ This pre-release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
 - King Of Air - Collection
 - Favorites - Collection
 
-Update 20/03/2020
+##Update 20/03/2020
 added and test Theme Page - Nintendo Gameboy Color
