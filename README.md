@@ -39,3 +39,6 @@ This pre-release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
 - Sinclair Zx Spectrum
 - King Of Air - Collection
 - Favorites - Collection
+
+Update 20/03/2020
+added and test Theme Page - Nintendo Gameboy Color
