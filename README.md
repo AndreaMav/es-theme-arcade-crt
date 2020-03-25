@@ -54,3 +54,9 @@ added and test Theme Page:
 - Naomi
 - Ports
 - OpenBor
+
+added extra color to gamelist in:
+- King of Air
+- Autofavorites
+- Ports
+- Naomi
