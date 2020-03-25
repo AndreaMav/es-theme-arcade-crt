@@ -48,3 +48,8 @@ added and test Theme Page:
 - GameGear
 - Atari Lynx
 
+##Update 25/03/2020
+
+added and test Theme Page:
+- Naomi
+- Ports
