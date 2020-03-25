@@ -14,7 +14,7 @@ It has some basic console themes and specific console themes, created to remembe
 
 CGA Supported - 15 khz Monitor CRT - 4:3 format
 
-version 0.90
+version 1.0
 
 ##This pre-release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
 
