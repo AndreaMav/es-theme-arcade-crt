@@ -60,3 +60,7 @@ added extra color to gamelist in:
 - Autofavorites
 - Ports
 - Naomi
+
+Theme: Daphne
+-rewritten
+-inserted : description, developer, extra color for gamelist
