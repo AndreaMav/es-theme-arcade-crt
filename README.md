@@ -55,12 +55,13 @@ added and test Theme Page:
 - Ports
 - OpenBor
 
-added extra color to gamelist in:
+Added extra color to gamelist in:
 - King of Air
 - Autofavorites
 - Ports
 - Naomi
 
 Theme: Daphne
--rewritten
--inserted : description, developer, extra color for gamelist
+- rewritten
+- inserted : 
+-- description, developer, extra color for gamelist
