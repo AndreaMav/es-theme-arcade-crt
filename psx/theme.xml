@@ -1,0 +1,208 @@
+<!--
+theme name:		es-pb-psx
+version:		1.5
+author:			AndreaMav
+date:			17.03.2020
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	        <theme>
+			    <formatVersion>4</formatVersion>
+			    <include>./_res/colorsets/cygnus.xml</include>
+			    <include>./_res/templates/simpleart-nometa.xml</include>
+			</theme>
+	
+
+	<view name="system">
+		<image name="background" extra="true">
+				<size>1 0.5</size>
+				<tile>true</tile>
+				<path>./_inc/system_and.png</path>
+				<tile>false</tile>
+			</image>
+
+		<image name="logo">
+			<path>./_inc/system.svg</path>
+		</image>
+
+
+		
+        <image name="logo_helper" extra="true">
+            <path>./../art/arcand.png</path>
+            <origin>0.2 0.5</origin>
+            <pos>0.6 0.8</pos>
+            <size>0.4 0.20</size>
+            
+        </image>
+
+
+	</view>
+
+	
+		<image name="logo_helper" extra="true">
+			<path>./../art/arcand.png</path>
+			<origin>0.2 0.5</origin>
+			<pos>0.6 0.8</pos>
+			<size>0.4 0.20</size>
+			
+		</image>
+
+	
+	<view name="system, basic, detailed">
+	
+		<image name="logo">
+			<path>./_inc/system.svg</path>
+		</image>
+
+		
+	</view>
+
+
+
+
+
+<feature supported="video">
+
+		<view name="video">
+
+			<image name="background" >
+				<tile>false</tile>
+				<pos>0.37 0.05</pos>
+				<origin>0 0</origin>
+				<size>0.6 0.9</size>
+				<path>./../_inc/images/bg_color_grey.png</path>
+				
+				
+			</image>
+
+			
+			
+			<textlist name="gamelist">
+				<selectorColor>1c1c1c</selectorColor>
+				<selectedColor>ffffff</selectedColor>
+				<primaryColor>7373ff</primaryColor>
+				<secondaryColor>7a6161</secondaryColor>
+				<fontPath>./../art/C64.ttf</fontPath>
+				<forceUppercase>1</forceUppercase>
+				<pos>0.032 0.130</pos>
+				<size>0.330 0.650</size>
+				<alignment>left</alignment>
+				<horizontalMargin>0.00</horizontalMargin>
+				<fontSize>0.03</fontSize>
+				<scrollSound>./art/scroll.wav</scrollSound>
+			</textlist>
+
+			<video name="md_video">
+				<pos>0.50 0.28</pos>			
+				<origin>0 0</origin>
+				<!--<maxSize>0.4 0.6</maxSize> quasi OK -->
+				<size>0.48 0.43</size>
+				<delay>0.2</delay>
+				<default></default>
+				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotDelay>false</showSnapshotDelay>
+			</video>
+
+			<image name="md_marquee">
+				<pos>0.50 0.08</pos>
+				<origin>0 0</origin>
+				
+				<size>0.48 0.14</size>
+			</image>
+
+			<image name="bottom" extra="true">
+				<pos>0.375 0.06</pos>
+				<size>0.6 0.88</size>
+				
+				<path>./_inc/psx_bc_lw2.jpg</path>
+				<tile>false</tile>
+				
+			</image>
+
+			
+			<image name="bottom2" extra="true">
+				<pos>0.032 0.780</pos>
+				<size>0.330 0.175</size>
+				<path>./../art/arcand.png</path>
+				<tile>false</tile>
+			</image>
+
+			<text name="md_lbl_players">
+                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                    </text>
+
+                    <text name="md_players, md_genre, md_developer, md_publisher">
+                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                    </text>
+
+                    <datetime name="md_releasedate, md_lastplayed">
+                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                    </datetime>
+
+                    <text name="md_description">
+                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                    </text>
+
+                    <text name="md_lbl_rating, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_developer, md_lbl_publisher, md_lbl_releasedate">
+                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                    </text>
+
+                    <text name="md_description">
+                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                    </text>
+
+                        <text name="md_genre, md_developer, md_publisher,md_lastplayed,md_rating,md_players,md_releasedate">
+                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                        </text>
+
+                        <datetime name="md_lastplayed">
+                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                        </datetime>
+                        <text name="md_lbl_players">
+                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                        </text>
+                        <text name="md_players">
+                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                        </text>
+                        <text name="md_genre">
+                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                        </text>
+                        <text name="md_developer">
+                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                        </text>
+                        <datetime name="md_releasedate">
+                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 0</pos>
+                        <size>0.001 0.001</size>
+                        </datetime>
+
+		</view>
+
+	</feature>
+
+</theme>
