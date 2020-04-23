@@ -1,8 +1,8 @@
 <!--
-theme name:		es-pb-psx
-version:		1.5
+theme name:		es-arade-crt-psx
+version:		1.8
 author:			AndreaMav
-date:			17.03.2020
+date:			23.04.2020
 -->
 <theme>
 	<formatVersion>4</formatVersion>
@@ -77,6 +77,7 @@ date:			17.03.2020
 			</image>
 
 			
+
 			
 			<textlist name="gamelist">
 				<selectorColor>1c1c1c</selectorColor>
@@ -96,7 +97,7 @@ date:			17.03.2020
 			<video name="md_video">
 				<pos>0.50 0.28</pos>			
 				<origin>0 0</origin>
-				<!--<maxSize>0.4 0.6</maxSize> quasi OK -->
+				
 				<size>0.48 0.43</size>
 				<delay>0.2</delay>
 				<default></default>
