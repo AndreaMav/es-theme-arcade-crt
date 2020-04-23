@@ -1,13 +1,11 @@
 <!--
-theme name:		es-pb-megadrive
-version:		1.7
+theme name:		es-arcade-crt-vectrex
+version:		1.9
 author:			AndreaMav
 -->
 <theme>
 	<formatVersion>4</formatVersion>
-	<!--<include>./../theme.xml</include>
-	<include>./../_res/colorsets/cygnus.xml</include>
-	<include>./../_res/templates/simpleart-nometa.xml</include>-->
+	
 
 	<view name="system">
 		<image name="background" extra="true">
@@ -21,14 +19,11 @@ author:			AndreaMav
 			<path>./_inc/system.svg</path>
 		</image>
 	
-
-	<!-- BOX LOGO  -->
 		<image name="logo_helper" extra="true">
 			<path>./../art/arcand.png</path>
 			<origin>0.2 0.5</origin>
 			<pos>0.6 0.8</pos>
 			<size>0.4 0.20</size>
-			
 		</image>
 
 	</view>
