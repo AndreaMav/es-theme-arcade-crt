@@ -96,7 +96,7 @@ date:			17.03.2020
 				<alignment>left</alignment>
 				<horizontalMargin>0.00</horizontalMargin>
 				<fontSize>0.03</fontSize>
-				<scrollSound>./art/scroll.wav</scrollSound>
+				<scrollSound>./../art/scroll.wav</scrollSound>
 			</textlist>
 
 			<video name="md_video">
