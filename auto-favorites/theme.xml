@@ -1,6 +1,6 @@
 <!--
-theme name:		es-pb-favorites
-version:		1.7
+theme name:		es-arcade-crt-favorites
+version:		1.9
 author:			AndreaMav
 -->
 <theme>
@@ -20,7 +20,7 @@ author:			AndreaMav
 		</image>
 	</view>
 
-	<!-- BOX LOGO  -->
+	
 		<image name="logo_helper" extra="true">
 			<path>./../art/arcand.png</path>
 			<origin>0.2 0.5</origin>
