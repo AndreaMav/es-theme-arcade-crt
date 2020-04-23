@@ -1,5 +1,5 @@
 <!--
-theme name:		es-pb-nds
+theme name:		es-arcade-crt-nds
 version:		1.9
 author:			AndreaMav
 -->
@@ -98,7 +98,7 @@ author:			AndreaMav
 					<pos>0.180 0.860</pos>
 					<text>Developer</text>
 					<color>00ffd9</color>
-					<fontPath>./art/TinyUnicode.ttf</fontPath>
+					<fontPath>./../art/TinyUnicode.ttf</fontPath>
 					<forceUppercase>1</forceUppercase>
 					<fontSize>0.05</fontSize>
 					<size>0.25 0.0333333333333333</size>
@@ -106,7 +106,7 @@ author:			AndreaMav
 
 			<text name="md_developer">
 				<color>ffffff</color>
-				<fontPath>./art/TinyUnicode.ttf</fontPath>
+				<fontPath>./../art/TinyUnicode.ttf</fontPath>
 				<forceUppercase>1</forceUppercase>
 				<fontSize>0.05</fontSize>
 				<pos>0.340 0.860</pos>
