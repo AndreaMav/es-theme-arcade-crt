@@ -1,5 +1,5 @@
 <!--
-theme name:		es-pb_atari2600
+theme name:		es-arcade-crt_atari2600
 version:		1.9
 author:			AndreaMav
 -->
@@ -73,16 +73,6 @@ author:			AndreaMav
 	
 	<view name="basic, detailed, video">
 
-		
-
-		<image name="bottom" extra="true">
-				<pos>0.58 0.56</pos>
-				<size>0.360 0.422</size>
-				<path>./art/c64k2.jpg</path>
-				<tile>false</tile>
-				<rotation>10</rotation>
-		</image>
-
 		<image name="background" extra="true">
 				<pos>-0.10 0.20</pos>
 				<size>0.80 0.77</size>
@@ -118,7 +108,7 @@ author:			AndreaMav
 				<pos>0.70 0.300</pos>
 				<text>Rating</text>
 				<color>00ffd9</color>
-				<fontPath>./art/TinyUnicode.ttf</fontPath>
+				<fontPath>./../art/TinyUnicode.ttf</fontPath>
 				<forceUppercase>1</forceUppercase>
 				<fontSize>0.05</fontSize>
 				<size>0.25 0.0333333333333333</size>
