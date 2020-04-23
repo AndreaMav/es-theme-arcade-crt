@@ -1,5 +1,5 @@
 <!--
-theme name:		es-pb-amiga
+theme name:		es-arcade-crt-amiga
 version:		1.7
 author:			AndreaMav
 -->
@@ -101,10 +101,5 @@ author:			AndreaMav
 
 	</view>
 
-<!--	<view name="basic">		
-	</view>
 
-	<view name="detailed">
-	</view>
-	-->
 </theme>
