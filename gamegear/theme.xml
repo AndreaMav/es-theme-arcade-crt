@@ -1,5 +1,5 @@
 <!--
-theme name:		es-pb-ATARILYNX
+theme name:		es-arcade-crt-ATARILYNX
 version:		1.7
 author:			AndreaMav
 -->
@@ -98,7 +98,7 @@ author:			AndreaMav
 
 	
 		<datetime name="md_releasedate, md_lbl_rating, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_developer, md_lbl_publisher, md_lbl_releasedate">
-                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 1</pos>
                         <size>0.001 0.001</size>
                     </datetime>
