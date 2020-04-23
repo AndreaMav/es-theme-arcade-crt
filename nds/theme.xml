@@ -1,6 +1,6 @@
 <!--
 theme name:		es-pb-nds
-version:		1.8
+version:		1.9
 author:			AndreaMav
 -->
 <theme>
@@ -84,7 +84,7 @@ author:			AndreaMav
 				<alignment>left</alignment>
 				<horizontalMargin>0.00</horizontalMargin>
 				<fontSize>0.045</fontSize>
-				<fontPath>./../_res/fonts/TitilliumWeb-SemiBold.ttf</fontPath>
+				<fontPath>./../art/piccolo.ttf</fontPath>
 			</textlist>
 
 			<image name="bottom2" extra="true">
@@ -134,26 +134,21 @@ author:			AndreaMav
 
 			<text name="md_description">
                 <color>ffffff</color>
-				<forceUppercase>0</forceUppercase>
-				<fontPath>./../_res/fonts/TitilliumWeb-SemiBold.ttf</fontPath>
+				<forceUppercase>1</forceUppercase>
+				<fontPath>./../art/piccolo.ttf</fontPath>
 				<fontSize>0.04</fontSize>
 				<size>0.550 0.22</size>
 				<pos>0.100 0.010</pos>
             </text>
 
-
-			
-
-		
-
 		<text name="md_lbl_players">
-                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                     </text>
 
                     <text name="md_players, md_genre, md_publisher">
-                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                     </text>
@@ -162,7 +157,7 @@ author:			AndreaMav
 
                    
                     <text name="md_lbl_rating, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre,  md_lbl_publisher">
-                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                     </text>
@@ -170,28 +165,28 @@ author:			AndreaMav
                     
 
                         <text name="md_genre, md_publisher,md_lastplayed,md_rating,md_players">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </text>
 
                         <datetime name="md_lastplayed">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </datetime>
                         <text name="md_lbl_players">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </text>
                         <text name="md_players">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </text>
                         <text name="md_genre">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </text>
