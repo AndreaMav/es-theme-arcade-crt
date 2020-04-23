@@ -1,6 +1,6 @@
 <!--
-theme name:		es-pb-psp
-version:		1.8
+theme name:		es-arcade-crt-psp
+version:		1.9
 author:			AndreaMav
 -->
 
@@ -73,10 +73,10 @@ author:			AndreaMav
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>d2c0c0</selectorColor>
-			<selectedColor>ffffff</selectedColor>
-			<primaryColor>969696</primaryColor>
-			<secondaryColor>7a6161</secondaryColor>
+			<selectorColor>001B9D</selectorColor>
+				<selectedColor>ffffff</selectedColor>
+				<primaryColor>ffffff</primaryColor>
+				<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<pos>0.311 0.610</pos>
