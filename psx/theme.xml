@@ -91,7 +91,7 @@ date:			23.04.2020
 				<alignment>left</alignment>
 				<horizontalMargin>0.00</horizontalMargin>
 				<fontSize>0.03</fontSize>
-				<scrollSound>./art/scroll.wav</scrollSound>
+				<scrollSound>./../art/scroll.wav</scrollSound>
 			</textlist>
 
 			<video name="md_video">
@@ -130,74 +130,74 @@ date:			23.04.2020
 			</image>
 
 			<text name="md_lbl_players">
-                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                     </text>
 
                     <text name="md_players, md_genre, md_developer, md_publisher">
-                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                     </text>
 
                     <datetime name="md_releasedate, md_lastplayed">
-                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                     </datetime>
 
                     <text name="md_description">
-                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                     </text>
 
                     <text name="md_lbl_rating, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_developer, md_lbl_publisher, md_lbl_releasedate">
-                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                     </text>
 
                     <text name="md_description">
-                        <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                     </text>
 
                         <text name="md_genre, md_developer, md_publisher,md_lastplayed,md_rating,md_players,md_releasedate">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </text>
 
                         <datetime name="md_lastplayed">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </datetime>
                         <text name="md_lbl_players">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </text>
                         <text name="md_players">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </text>
                         <text name="md_genre">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </text>
                         <text name="md_developer">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </text>
                         <datetime name="md_releasedate">
-                            <fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+                            <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 0</pos>
                         <size>0.001 0.001</size>
                         </datetime>
