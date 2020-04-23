@@ -1,6 +1,6 @@
 <!--
-theme name:		es-theme-arcade-crt
-version:		1.7
+theme name:		es-aracde-crt
+version:		1.9
 author:			AndreaMav
 license:		creative commons CC-BY-NC-SA
 based on:		"eudora" by AmadhiX
@@ -12,7 +12,7 @@ based on:		"eudora" by AmadhiX
     <formatVersion>4</formatVersion>
     <include>./config.xml</include>
 
-<!-- System View -->
+
 	<view name="system">
 
 	
@@ -62,10 +62,9 @@ based on:		"eudora" by AmadhiX
         </image>
 
 	
-
 	</view>
 
-    
+    <!-- Custom Carousel System View -->
 
    <feature supported="carousel">
       <view name="system">
