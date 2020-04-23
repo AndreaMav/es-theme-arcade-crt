@@ -80,6 +80,8 @@ Added extra color to gamelist in:
 - Ports
 - Gb
 - Psp
+- Naomi
 
-Introduce a new Font Type
-Remove refuse and correct one link to older font
+Introduced a new Font Type
+
+Removed refuse and correct one link to older font
