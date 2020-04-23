@@ -65,3 +65,21 @@ Theme: Daphne
 - rewritten
 - inserted : 
 -- description, developer, extra color for gamelist
+
+
+##Update 22/04/2020
+
+Added extra color to gamelist in:
+- King of Air
+- Nes
+- SNes
+- Arcade
+- Favorites
+- Custom Collection
+- Open Bor
+- Ports
+- Gb
+- Psp
+
+Introduce a new Font Type
+Remove refuse and correct one link to older font
