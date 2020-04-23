@@ -1,5 +1,5 @@
 <!--
-theme name:		es-pb
+theme name:		es-aracde-crt-neogeo
 version:		1.9
 author:			AndreaMav
 -->
@@ -19,7 +19,7 @@ author:			AndreaMav
 		</image>
 
         <image name="logo_helper" extra="true">
-            <path>./art/arcand.png</path>
+            <path>./../art/arcand.png</path>
             <origin>0.2 0.5</origin>
             <pos>0.6 0.8</pos>
             <size>0.4 0.20</size>
@@ -65,7 +65,7 @@ author:			AndreaMav
 			</image>
 
 			<image name="logo">
-				<path>./art/system.svg</path>
+				<path>./_inc/system.svg</path>
 				<pos>0.10 0.1</pos>
 				<maxSize>0.300 0.80</maxSize>
 				<origin>0 0</origin>
@@ -85,14 +85,14 @@ author:			AndreaMav
 				<selectedColor>ffffff</selectedColor>
 				<primaryColor>ffffff</primaryColor>
 				<secondaryColor>7a6161</secondaryColor>
-				<fontPath>./art/Roboto-Medium.ttf.ttf</fontPath>
+				<fontPath>./art/Roboto-Medium.ttf</fontPath>
 				<forceUppercase>1</forceUppercase>
 				<pos>0.024 0.200</pos>
 				<size>0.430 0.720</size>
 				<alignment>left</alignment>
 				<horizontalMargin>0.00</horizontalMargin>
 				<fontSize>0.05</fontSize>
-				<scrollSound>./art/scroll.wav</scrollSound>
+				<scrollSound>./../art/scroll.wav</scrollSound>
 			</textlist>
 
 			<video name="md_video">
