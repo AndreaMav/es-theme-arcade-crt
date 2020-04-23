@@ -1,5 +1,5 @@
 <!--
-theme name:		es-pb
+theme name:		es-arcade-crt-segacd
 version:		1.4
 author:			AndreaMav
 -->
@@ -47,8 +47,7 @@ author:			AndreaMav
 			<video name="md_video">
 				<pos>0.5 0.30</pos>			
 				<origin>0 0</origin>
-				<!--<maxSize>0.4 0.6</maxSize> quasi OK -->
-				<size>0.4 0.6</size>
+								<size>0.4 0.6</size>
 				<delay>0.2</delay>
 				<default></default>
 				<showSnapshotNoVideo>true</showSnapshotNoVideo>
@@ -58,7 +57,7 @@ author:			AndreaMav
 			<image name="md_marquee">
 				<pos>0.48 0.18</pos>
 				<origin>0 0</origin>
-				<!--<maxSize>1 0.099</maxSize> quasi ok -->
+				
 				<size>0.45 0.10</size>
 			</image>
 
