@@ -92,7 +92,7 @@ author:			AndreaMav
 					<pos>0.700 0.800</pos>
 					<text>Rating</text>
 					<color>00ffd9</color>
-					<fontPath>./art/TinyUnicode.ttf</fontPath>
+					<fontPath>./../art/TinyUnicode.ttf</fontPath>
 					<forceUppercase>1</forceUppercase>
 					<fontSize>0.05</fontSize>
 					<size>0.25 0.0333333333333333</size>
@@ -109,7 +109,7 @@ author:			AndreaMav
 					<pos>0.700 0.680</pos>
 					<text>Developer</text>
 					<color>00ffd9</color>
-					<fontPath>./art/TinyUnicode.ttf</fontPath>
+					<fontPath>./../art/TinyUnicode.ttf</fontPath>
 					<forceUppercase>1</forceUppercase>
 					<fontSize>0.05</fontSize>
 					<size>0.25 0.0333333333333333</size>
@@ -117,7 +117,7 @@ author:			AndreaMav
 
 		<text name="md_developer">
 			<color>ffffff</color>
-			<fontPath>./art/TinyUnicode.ttf</fontPath>
+			<fontPath>./../art/TinyUnicode.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<fontSize>0.05</fontSize>
 			<pos>0.700 0.730</pos>
@@ -128,7 +128,7 @@ author:			AndreaMav
 					<pos>0.050 0.730</pos>
 					<text>Players:</text>
 					<color>00ffd9</color>
-					<fontPath>./art/TinyUnicode.ttf</fontPath>
+					<fontPath>./../art/TinyUnicode.ttf</fontPath>
 					<forceUppercase>1</forceUppercase>
 					<fontSize>0.05</fontSize>
 					<size>0.25 0.0333333333333333</size>
@@ -136,7 +136,7 @@ author:			AndreaMav
 
 		<text name="md_players">
 			<color>ffffff</color>
-			<fontPath>./art/TinyUnicode.ttf</fontPath>
+			<fontPath>./../art/TinyUnicode.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<fontSize>0.05</fontSize>
 			<pos>0.200 0.730</pos>
