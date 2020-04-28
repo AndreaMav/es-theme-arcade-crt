@@ -1,5 +1,6 @@
 <!--
-theme name:		es-pb
+theme name:		arcade-crt
+website:        https://github.com/AndreaMav/es-theme-arcade-crt
 version:		1.7
 author:			AndreaMav
 -->
@@ -34,19 +35,24 @@ author:			AndreaMav
 		<image name="logo">
 			<path>./_inc/system.svg</path>
 		</image>
+
+		<textlist name="gamelist">
+				<selectorColor>001B9D</selectorColor>
+				<selectedColor>ffffff</selectedColor>
+				<primaryColor>ffffff</primaryColor>
+				<secondaryColor>7a6161</secondaryColor>
+				<forceUppercase>1</forceUppercase>
+		</textlist>
 	</view>
 
 
 
 
 
-<feature supported="video">
+<feature supported="video, basic, detailed">
 
 		<view name="video">
 
-			<text name="md_description">
-	         	<pos>0.2015625 0.5888888888888889</pos>
-	      	</text>
 
 			<video name="md_video">
 				<pos>0.5 0.30</pos>			
