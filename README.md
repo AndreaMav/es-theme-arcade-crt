@@ -85,3 +85,7 @@ Added extra color to gamelist in:
 Introduced a new Font Type
 
 Removed refuse and correct one link to older font
+
+##Update 28/04/2020
+
+Added SuperModel - internal Theme
