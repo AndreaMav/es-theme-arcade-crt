@@ -9,6 +9,7 @@ I am creating a new emulationstation theme. It is created to help friends passio
 This theme for emulationstation is tested with:
 - Raspberry pi4
 - Retropie 4.5.14
+- Retropie 4.6
 
 It has some basic console themes and specific console themes, created to remember the old days, when we used the consoles .. with unique details of the time ...
 
