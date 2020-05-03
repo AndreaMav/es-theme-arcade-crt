@@ -2,6 +2,7 @@
 Emulationstation Theme
 
 A simple theme for Emulation Station and RetroPie with support unique for the "video gamelist" actually.
+
 Originally based on the Carbon theme by Eric Hettervik; and then full rebuilt.
 
 I am creating a new emulationstation theme. It is created to help friends passionate about arcade cabinets with CRT monitors 15 khz to take advantage of emulationstation with my theme.
