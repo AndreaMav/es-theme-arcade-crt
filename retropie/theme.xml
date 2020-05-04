@@ -1,7 +1,7 @@
 <!--
 theme name:		arcade-crt
 website:        https://github.com/AndreaMav/es-theme-arcade-crt
-version:		1.7
+version:		2.1
 author:			AndreaMav
 -->
 <theme>
@@ -42,6 +42,7 @@ author:			AndreaMav
 				<primaryColor>ffffff</primaryColor>
 				<secondaryColor>7a6161</secondaryColor>
 				<forceUppercase>1</forceUppercase>
+				<fontPath>./../art/piccolo.ttf</fontPath>
 		</textlist>
 	</view>
 
@@ -67,7 +68,6 @@ author:			AndreaMav
 			<image name="md_marquee">
 				<pos>0.48 0.18</pos>
 				<origin>0 0</origin>
-				<!--<maxSize>1 0.099</maxSize> quasi ok -->
 				<size>0.45 0.10</size>
 			</image>
 
@@ -85,7 +85,7 @@ author:			AndreaMav
 				<primaryColor>ffffff</primaryColor>
 				<secondaryColor>7a6161</secondaryColor>
 				<forceUppercase>1</forceUppercase>
-				
+				<fontPath>./../art/piccolo.ttf</fontPath>
 			</textlist>
 			
 
