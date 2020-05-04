@@ -94,12 +94,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 			<image name="md_image">
 				<pos>0.57 0.35</pos>			
 				<origin>0 0</origin>
-				<!--<maxSize>0.4 0.6</maxSize> quasi OK -->
 				<size>0.28 0.40</size>
-				<delay>1</delay>
-				<default>./../_res/images/static.mp4</default>
-				<showSnapshotNoVideo>true</showSnapshotNoVideo>
-				<showSnapshotDelay>true</showSnapshotDelay>
 			</image>
 
 			<text name="rating_label" extra="true">
