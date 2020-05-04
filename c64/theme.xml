@@ -1,7 +1,8 @@
 <!--
 theme name:		es-arcade-crt_c64
-version:		1.9
+version:		2.1
 author:			AndreaMav
+web:			https://github.com/AndreaMav/es-theme-arcade-crt
 -->
 <theme>
 	<formatVersion>4</formatVersion>
@@ -57,6 +58,74 @@ author:			AndreaMav
 	</view>
 
 
+	<view name="detailed">
+
+		<image name="background" >
+				<tile>false</tile>
+				<pos>0.010 0</pos>
+				<origin>0 0</origin>
+				<size>1 1</size>
+				<path>./art/c64_d_.png</path>
+			</image>
+
+			<image name="logo">
+				<path>./art/system.svg</path>
+				<pos>0.700 0.864</pos>
+				<maxSize>0.460 0.126</maxSize>
+				<origin>0.5 0.5</origin>
+			</image>
+
+			
+			<textlist name="gamelist">
+				<selectorColor>1c1c1c</selectorColor>
+				<selectedColor>ffffff</selectedColor>
+				<primaryColor>7373ff</primaryColor>
+				<secondaryColor>7a6161</secondaryColor>
+				<fontPath>./../art/C64.ttf</fontPath>
+				<forceUppercase>1</forceUppercase>
+				<pos>0.032 0.310</pos>
+				<size>0.460 0.500</size>
+				<alignment>left</alignment>
+				<horizontalMargin>0.00</horizontalMargin>
+				<fontSize>0.03</fontSize>
+				<scrollSound>./art/scroll.wav</scrollSound>
+			</textlist>
+
+			<image name="md_image">
+				<pos>0.57 0.35</pos>			
+				<origin>0 0</origin>
+				<!--<maxSize>0.4 0.6</maxSize> quasi OK -->
+				<size>0.28 0.40</size>
+				<delay>1</delay>
+				<default>./../_res/images/static.mp4</default>
+				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotDelay>true</showSnapshotDelay>
+			</image>
+
+			<text name="rating_label" extra="true">
+					<pos>0.56 0.030</pos>
+					<text>@AndreaMav 2020</text>
+					<color>0000AA</color>
+					<fontPath>./../art/C64.ttf</fontPath>
+					<forceUppercase>1</forceUppercase>
+					<fontSize>0.03</fontSize>
+					<size>0.40 0.008</size>
+				</text>
+
+			<text name="md_lbl_rating, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_developer, md_lbl_publisher, md_lbl_players">
+
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 1</pos>
+                        <size>0.001 0.001</size>
+                    </text>
+
+        <datetime name="md_releasedate, md_lbl_lastplayed, md_lbl_releasedate, md_players">
+                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
+                        <pos>1 1</pos>
+                        <size>0.001 0.001</size>
+                    </datetime>
+		
+	</view>
 
 
 
