@@ -44,13 +44,8 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 		<image name="md_image">
 				<pos>0.23 0.25</pos>			
 				<origin>0 0</origin>
-				
 				<size>0.30 0.51</size>
-				<delay>0.2</delay>
-				<default></default>
-				<showSnapshotNoVideo>true</showSnapshotNoVideo>
-				<showSnapshotDelay>false</showSnapshotDelay>
-			</image>
+				</image>
 
 			<image name="md_marquee">
 				<pos>0.64 0.06</pos>
