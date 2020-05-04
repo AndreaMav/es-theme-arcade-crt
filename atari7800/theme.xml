@@ -1,12 +1,12 @@
 <!--
 theme name:		es-pb-atari7800
-version:		1.7
+version:		2.1
 author:			AndreaMav
+web:			https://github.com/AndreaMav/es-theme-arcade-crt
 -->
 <theme>
 	<formatVersion>4</formatVersion>
-	<!--<include>./../theme.xml</include>-->
-
+	
 	<view name="system">
 		<image name="background" extra="true">
 				<size>1 0.5</size>
@@ -29,15 +29,59 @@ author:			AndreaMav
 			
 		</image>
 
-	
-	<view name="system, basic, detailed, video">
+		<view name="system, basic">
 		<image name="logo">
 			<path>./_inc/system.svg</path>
 			<pos>0.10 0.10</pos>			
 			<origin>0 0</origin>
 			<size>0.3 0.10</size>
-			
 		</image>
+
+		</view>
+	
+	<view name="detailed">
+		<image name="logo">
+			<path>./_inc/system.svg</path>
+			<pos>0.10 0.10</pos>			
+			<origin>0 0</origin>
+			<size>0.3 0.10</size>
+		</image>
+
+		<textlist name="gamelist">
+				<selectedColor>7adbff</selectedColor>
+				<primaryColor>ffffff</primaryColor>
+                <fontPath>./../fonts/TitilliumWeb-SemiBold.ttf</fontPath>
+                <pos>0.71 0.163</pos>
+                <size>0.27 0.70</size>
+                <fontSize>0.045</fontSize>
+                <lineSpacing>1.40</lineSpacing>
+                <horizontalMargin>0.010</horizontalMargin>
+                <alignment>left</alignment>
+                <forceUppercase>1</forceUppercase>
+                <selectorHeight>0.065</selectorHeight>
+            </textlist>
+         <image name="md_image">
+				<pos>0.03 0.23</pos>
+				<origin>0 0</origin>
+				<size>0.35 0.50</size>
+			</image>
+		<text name="rating_label" extra="true">
+				<pos>0.45 0.25</pos>
+				<text>Rating</text>
+				<color>00ffd9</color>
+				<fontPath>./art/TinyUnicode.ttf</fontPath>
+				<forceUppercase>1</forceUppercase>
+				<fontSize>0.05</fontSize>
+				<size>0.25 0.0333333333333333</size>
+			</text>
+			
+			<rating name="md_rating">
+				<pos>0.45 0.30</pos>
+				<size>0.0166666666666667 0.0296296296296296</size>		
+				<filledPath>./art/heart_filled.png</filledPath>
+				<unfilledPath>./art/heart_empty.png</unfilledPath>
+			</rating>
+
 	</view>
 
 
@@ -90,7 +134,6 @@ author:			AndreaMav
                 <horizontalMargin>0.010</horizontalMargin>
                 <alignment>left</alignment>
                 <forceUppercase>1</forceUppercase>
-                <selectorHeight>0.065</selectorHeight><!--altezza nero selettore-->
             </textlist>
 
             <text name="rating_label" extra="true">
