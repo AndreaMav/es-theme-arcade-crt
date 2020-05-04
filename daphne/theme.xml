@@ -1,7 +1,8 @@
 <!--
 theme name:		es-arcade-crt-daphne
-version:		1.9
+version:		2.1
 author:			AndreaMav
+web:			https://github.com/AndreaMav/es-theme-arcade-crt
 -->
 <theme>
 	<formatVersion>4</formatVersion>
@@ -32,6 +33,42 @@ author:			AndreaMav
 		<image name="logo">
 			<path>./_inc/system.svg</path>
 		</image>
+	</view>
+
+	<view name="detailed">
+		
+		<image name="logo">
+				<path>./_inc/system.svg</path>
+				<pos>0.030 0.030</pos>			
+				<origin>0 0</origin>
+				<size>0.3 0.1</size>
+			</image>
+						
+			<textlist name="gamelist">
+				<selectorColor>1c1c1c</selectorColor>
+				<selectedColor>ffffff</selectedColor>
+				<primaryColor>ffffff</primaryColor>
+				<secondaryColor>7a6161</secondaryColor>
+				<forceUppercase>1</forceUppercase>
+				<pos>0.05 0.13</pos>
+				<size>0.350 0.350</size>
+				<alignment>left</alignment>
+				<horizontalMargin>0.0</horizontalMargin>
+				<fontPath>./../_res/fonts/TitilliumWeb-SemiBold.ttf</fontPath>
+				<fontSize>0.045</fontSize>
+			</textlist>
+				
+
+			<image name="md_image">
+				<pos>0.700 0.670</pos>
+				<size>0.236 0.200</size>
+				<origin>0.5 0.5</origin>			
+				<delay>0.2</delay>
+				<default></default>
+				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotDelay>false</showSnapshotDelay>
+			</image>
+
 	</view>
 
 
