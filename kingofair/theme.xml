@@ -1,7 +1,8 @@
 <!--
 theme name:		es-arcade-crt-arcade
-version:		2.0
+version:		2.1
 author:			AndreaMav
+web:			https://github.com/AndreaMav/es-theme-arcade-crt
 -->
 <theme>
 	<formatVersion>4</formatVersion>
@@ -94,7 +95,7 @@ author:			AndreaMav
 				<forceUppercase>1</forceUppercase>
 				<fontSize>0.07</fontSize>
 				<alignment>left</alignment>
-				<!--<size>0.40 0.038</size>-->
+				
 			</text>	
 
 			<textlist name="gamelist">
