@@ -64,9 +64,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 				<pos>0.345 0.140</pos>			
 				<origin>0 0</origin>
 				<size>0.310 0.21</size>
-				<delay>0.2</delay>
-				<default></default>
-			</image>
+				</image>
 
 		<text name="md_description">
                 <color>ffffff</color>
