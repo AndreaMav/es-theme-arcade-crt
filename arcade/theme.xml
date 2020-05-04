@@ -2,6 +2,7 @@
 theme name:		es-arcade-crt-arcade
 version:		2.0
 author:			AndreaMav
+web:			https://github.com/AndreaMav/es-theme-arcade-crt
 -->
 <theme>
 	<formatVersion>4</formatVersion>
@@ -42,6 +43,33 @@ author:			AndreaMav
 		<image name="logo">
 			<path>./_inc/system.svg</path>
 		</image>
+
+		<textlist name="gamelist">
+				<selectorColor>001B9D</selectorColor>
+				<selectedColor>ffffff</selectedColor>
+				<primaryColor>ffffff</primaryColor>
+				<secondaryColor>7a6161</secondaryColor>
+				<forceUppercase>1</forceUppercase>
+				<horizontalMargin>0.00</horizontalMargin>
+				<fontSize>0.045</fontSize>
+				<size>0.38 0.69</size>
+			</textlist>
+
+			<image name="md_marquee">
+				<pos>0.48 0.18</pos>
+				<origin>0 0</origin>
+				<size>0.45 0.10</size>
+			</image>
+
+			<image name="md_image">
+				<pos>0.5 0.30</pos>			
+				<origin>0 0</origin>
+				<size>0.4 0.6</size>
+				<delay>0.2</delay>
+				<default></default>
+				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotDelay>false</showSnapshotDelay>
+			</image>
 	</view>
 
 
