@@ -1,7 +1,7 @@
 # es-theme-arcade-crt
 Emulationstation Theme
 
-A simple theme for Emulation Station and RetroPie with support for the video.
+A simple theme for Emulation Station and RetroPie with support for the video and pictures.
 Originally based on the Carbon theme by Eric Hettervik; and then full rebuilt.
 
 I am creating a new emulationstation theme. It is created to help friends passionate about arcade cabinets with CRT monitors 15 khz to take advantage of emulationstation with my theme.
@@ -14,7 +14,7 @@ It has some basic console themes and specific console themes, created to remembe
 
 CGA Supported - 15 khz Monitor CRT - 4:3 format
 
-version 1.0
+version 1.1
 
 ##This pre-release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
 
