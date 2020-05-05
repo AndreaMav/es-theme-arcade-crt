@@ -87,3 +87,9 @@ Added extra color to gamelist in:
 Introduced a new Font Type
 
 Removed refuse and correct one link to older font
+
+##Update 05/05/2020
+
+- All Platforms in Theme
+added possibility to use only pictures and no video.. 
+with video theme results better.. but for to satisfy more people ..
