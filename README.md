@@ -1,17 +1,14 @@
 # es-theme-arcade-crt
 Emulationstation Theme
 
-A simple theme for Emulation Station and RetroPie with support unique for the "video gamelist" actually.
-
+A simple theme for Emulation Station and RetroPie with support for the video.
 Originally based on the Carbon theme by Eric Hettervik; and then full rebuilt.
 
 I am creating a new emulationstation theme. It is created to help friends passionate about arcade cabinets with CRT monitors 15 khz to take advantage of emulationstation with my theme.
 
 This theme for emulationstation is tested with:
-- Raspberry pi3
 - Raspberry pi4
 - Retropie 4.5.14
-- Retropie 4.6
 
 It has some basic console themes and specific console themes, created to remember the old days, when we used the consoles .. with unique details of the time ...
 
@@ -88,7 +85,3 @@ Added extra color to gamelist in:
 Introduced a new Font Type
 
 Removed refuse and correct one link to older font
-
-##Update 28/04/2020
-
-Added SuperModel - internal Theme
