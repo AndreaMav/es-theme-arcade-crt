@@ -17,31 +17,56 @@ It has some basic console themes and specific console themes, created to remembe
 
 CGA Supported - 15 khz Monitor CRT - 4:3 format
 
-version 1.1
+version 2.2
 
 ##This pre-release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
 
-- Commodore Amiga 
-- Commodore 64
+- Arcade
 - Atari 2600
 - Atari 7800
+- Atari Lynx
+- Commodore Amiga 
+- Commodore 64
 - Lasergame
 - Dreamcast
 - Intellivision
-- MasterSystem
-- Megadrive
+- King Of Air
 - Msx
+- Naomi
+- Ms Dos
+- Nintendo GameBoy
+- Nintendo GameBoy Color
 - Nintendo DS
-- Neo Geo
 - Nintendo Nes
+- Nintendo SNes
+- Nintendo 64
+- Neo Geo
+- Pc Engine
+- Ports
 - PSP
 - Playstation
 - Sega 32x
-- Nintendo SNes
+- Sega Game Gear
+- Sega MasterSystem
+- Sega Megadrive
+- Sega Saturn
+- Sega Model 3
 - Vectrex
 - Sinclair Zx Spectrum
 - King Of Air - Collection
-- Favorites - Collection
+- Auto Favorites - Collection
+
+
+##Update 06/05/2020
+
+update internal theme - metadata
+- arcade
+- favorites
+- Custom Collection
+- King Of Air
+- N64
+- Pc Engine
+- C64
 
 ##Update 20/03/2020
 
