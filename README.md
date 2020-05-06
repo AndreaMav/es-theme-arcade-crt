@@ -11,6 +11,7 @@ This theme for emulationstation is tested with:
 - Raspberry pi3
 - Retropie 4.5.14 - tested
 - Retropie 4.6 - tested
+- Retropie 4.5.19 - (x86 run on UBUNTU 16.04) -tested
 
 It has some basic console themes and specific console themes, created to remember the old days, when we used the consoles .. with unique details of the time ...
 
