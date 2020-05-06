@@ -19,7 +19,7 @@ CGA Supported - 15 khz Monitor CRT - 4:3 format
 
 version 2.2
 
-##This pre-release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
+##This release has this "Themes" optimized for arcade cabinet, 15 khz, crt :
 
 - Arcade
 - Atari 2600
