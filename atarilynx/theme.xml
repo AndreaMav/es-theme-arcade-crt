@@ -47,7 +47,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 			</image>
 
 		<textlist name="gamelist">
-				<selectorColor>1c1c1c</selectorColor>
+				<selectorColor>001B9D</selectorColor>
 				<selectedColor>ffffff</selectedColor>
 				<primaryColor>ffffff</primaryColor>
 				<secondaryColor>7a6161</secondaryColor>
@@ -118,7 +118,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 			</image>
 
 			<textlist name="gamelist">
-				<selectorColor>1c1c1c</selectorColor>
+				<selectorColor>001B9D</selectorColor>
 				<selectedColor>ffffff</selectedColor>
 				<primaryColor>ffffff</primaryColor>
 				<secondaryColor>7a6161</secondaryColor>
