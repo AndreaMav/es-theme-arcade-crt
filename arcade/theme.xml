@@ -16,7 +16,7 @@ Date:			06/05/2020
 				<tile>false</tile>
 			</image>
 		<image name="logo">
-			<path>./_inc/system.svg</path>
+			<path>./_inc/system2.svg</path>
 		</image>
 		<image name="bottom3" extra="true">
             <path>./../art/zanac_logo.png</path>
@@ -46,15 +46,8 @@ Date:			06/05/2020
 			<image name="logo">
 				<origin>0 0.5</origin>
 				<pos>0.03 0.0775</pos>
-				<maxSize>0.55 0.10</maxSize>
-				<path>./_inc/system.svg</path>
-			</image>
-			<image name="bottom2" extra="true">
-				<pos>0.52 0.01</pos>
-				<size>0.380 0.170</size>
-				<path>./../art/arcand.png</path>
-				<tile>false</tile>
-				<!--<rotation>-10</rotation>-->
+				<size>0.40 0.13</size>
+				<path>./../art/arcand2.png</path>
 			</image>
 			<textlist name="gamelist">
 				<selectorColor>001B9D</selectorColor>
