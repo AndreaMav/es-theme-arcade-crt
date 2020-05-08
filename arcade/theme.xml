@@ -45,8 +45,8 @@ Date:			06/05/2020
 	<view name="basic, detailed, video">
 			<image name="logo">
 				<origin>0 0.5</origin>
-				<pos>0.03 0.0775</pos>
-				<size>0.40 0.13</size>
+				<pos>0.33 0.0775</pos>
+				<size>0.40 0.14</size>
 				<path>./../art/arcand2.png</path>
 			</image>
 			<textlist name="gamelist">
