@@ -56,6 +56,8 @@ version 2.2
 - King Of Air - Collection
 - Auto Favorites - Collection
 
+##Update 09/05/2020
+-little update for graphic for AtariLynx, Dreamcast, PcEngine, Saturn
 
 ##Update 06/05/2020
 
@@ -67,6 +69,32 @@ update internal theme - metadata
 - N64
 - Pc Engine
 - C64
+
+##Update 05/05/2020
+
+- All Platforms in Theme
+added possibility to use only pictures and no video.. 
+with video theme results better.. but for to satisfy more people ..
+
+##Update 22/04/2020
+
+Added extra color to gamelist in:
+- King of Air
+- Nes
+- SNes
+- Arcade
+- Favorites
+- Custom Collection
+- Open Bor
+- Ports
+- Gb
+- Psp
+- Naomi
+
+Introduced a new Font Type
+
+Removed refuse and correct one link to older font
+
 
 ##Update 20/03/2020
 
@@ -95,27 +123,7 @@ Theme: Daphne
 -- description, developer, extra color for gamelist
 
 
-##Update 22/04/2020
 
-Added extra color to gamelist in:
-- King of Air
-- Nes
-- SNes
-- Arcade
-- Favorites
-- Custom Collection
-- Open Bor
-- Ports
-- Gb
-- Psp
-- Naomi
 
-Introduced a new Font Type
 
-Removed refuse and correct one link to older font
 
-##Update 05/05/2020
-
-- All Platforms in Theme
-added possibility to use only pictures and no video.. 
-with video theme results better.. but for to satisfy more people ..
