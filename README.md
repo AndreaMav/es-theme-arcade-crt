@@ -26,6 +26,7 @@ version 2.2
 - Atari 5200
 - Atari 7800
 - Atari Lynx
+- Atari Jaguar
 - Commodore Amiga 
 - Commodore 64
 - Lasergame
@@ -61,7 +62,7 @@ version 2.2
 
 ##Update 11/05/2020
 - added Atari 5200 theme System
-- little graghic upgrade in Atari 7800
+- little graghic upgrade in Atari 7800 and Atari Jaguar
 
 ##Update 10/05/2020
 -little update for graphic for Sega CD - inserted mini tema dedicated
