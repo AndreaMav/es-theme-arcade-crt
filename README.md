@@ -46,6 +46,7 @@ version 2.2
 - PSP
 - Playstation
 - Sega 32x
+- Sega CD
 - Sega Game Gear
 - Sega MasterSystem
 - Sega Megadrive
@@ -55,6 +56,9 @@ version 2.2
 - Sinclair Zx Spectrum
 - King Of Air - Collection
 - Auto Favorites - Collection
+
+##Update 10/05/2020
+-little update for graphic for Sega CD - inserted mini tema dedicated
 
 ##Update 09/05/2020
 -little update for graphic for AtariLynx, Dreamcast, PcEngine, Saturn
