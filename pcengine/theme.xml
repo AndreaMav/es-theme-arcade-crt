@@ -3,14 +3,15 @@ theme name:		es-arcade-crt
 version:		2.2
 author:			AndreaMav
 web:			https://github.com/AndreaMav/es-theme-arcade-crt
-Date:			06/05/2020
+Date:			11/05/2020
 -->
 <theme>
 	<formatVersion>4</formatVersion>
 	
 	<view name="system">
 		<image name="background" extra="true">
-				<size>1 0.5</size>
+				<pos>0.2 0</pos>
+				<size>0.7 0.4</size>
 				<tile>true</tile>
 				<path>./_inc/system_and.png</path>
 				<tile>false</tile>
