@@ -23,6 +23,7 @@ version 2.2
 
 - Arcade
 - Atari 2600
+- Atari 5200
 - Atari 7800
 - Atari Lynx
 - Commodore Amiga 
