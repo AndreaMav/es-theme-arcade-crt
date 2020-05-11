@@ -54,7 +54,7 @@ Date:			11/05/2020
 		<view name="video">
 
 			<image name="logo">
-			<path>./_inc/system.png</path>
+			<path>./_inc/system_svg.png</path>
 		</image>
 	
 
