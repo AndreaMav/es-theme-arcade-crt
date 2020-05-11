@@ -62,7 +62,7 @@ version 2.2
 
 ##Update 11/05/2020
 - added Atari 5200 theme System
-- little graghic upgrade in Atari 7800 / Atari Jaguar / Intellivision
+- little graghic upgrade in Atari 7800 / Atari Jaguar / Intellivision / MasterSystem
 
 ##Update 10/05/2020
 -little update for graphic for Sega CD - inserted mini tema dedicated
