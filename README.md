@@ -57,6 +57,11 @@ version 2.2
 - King Of Air - Collection
 - Auto Favorites - Collection
 
+
+##Update 11/05/2020
+- added Atari 5200 theme System
+- little graghic upgrade in Atari 7800
+
 ##Update 10/05/2020
 -little update for graphic for Sega CD - inserted mini tema dedicated
 
