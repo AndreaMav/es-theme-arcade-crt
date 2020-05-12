@@ -22,13 +22,13 @@ Date:			06/05/2020
             <path>./../art/zanac_logo.png</path>
             <origin>0.2 0.5</origin>
             <pos>0.2 0.87</pos>
-            <size>0.33 0.13</size>
+            <size>0.33 0.10</size>
         </image>
 		<image name="bottom2" extra="true">
             <path>./../art/myzar.png</path>
             <origin>0.2 0.5</origin>
             <pos>0.1 0.74</pos>
-            <size>0.33 0.13</size>
+            <size>0.33 0.10</size>
         </image>
         <image name="logo_helper" extra="true">
 			<path>./../art/andmavlog.png</path>
