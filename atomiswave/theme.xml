@@ -36,9 +36,9 @@ Date:			12/05/2020
 
 	<view name="detailed">
 		<image name="md_image">
-				<pos>0.23 0.25</pos>			
+				<pos>0.22 0.24</pos>			
 				<origin>0 0</origin>
-				<size>0.30 0.51</size>
+				<size>0.31 0.52</size>
 				</image>
 	</view>	
 
