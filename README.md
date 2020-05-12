@@ -27,6 +27,7 @@ version 2.2
 - Atari 7800
 - Atari Lynx
 - Atari Jaguar
+- Atomiswave
 - Commodore Amiga 
 - Commodore 64
 - Lasergame
@@ -59,6 +60,9 @@ version 2.2
 - King Of Air - Collection
 - Auto Favorites - Collection
 
+##Update 12/05/2020
+- added Atomiswave theme System
+- little graghic upgrade in Mame
 
 ##Update 11/05/2020
 - added Atari 5200 theme System
