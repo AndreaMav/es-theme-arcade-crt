@@ -16,7 +16,7 @@ Date:			12/05/2020
 				<tile>false</tile>
 			</image>
 		<image name="logo">
-			<path>./_inc/system2.svg</path>
+			<path>./_inc/system.svg</path>
 		</image>
 		<image name="bottom3" extra="true">
             <path>./../art/zanac_logo.png</path>
@@ -24,30 +24,21 @@ Date:			12/05/2020
             <pos>0.2 0.87</pos>
             <size>0.33 0.10</size>
         </image>
-		<image name="bottom2" extra="true">
-            <path>./../art/myzar.png</path>
-            <origin>0.2 0.5</origin>
-            <pos>0.1 0.74</pos>
-            <size>0.33 0.10</size>
-        </image>
-        <image name="logo_helper" extra="true">
+		<image name="logo_helper" extra="true">
 			<path>./../art/andmavlog.png</path>
 			<origin>0.2 0.5</origin>
 			<pos>0.65 0.75</pos>
 			<size>0.4 0.13</size>
-			
 		</image>
 
 	</view>
 
-		
-	
 	<view name="basic, detailed, video">
 			<image name="logo">
 				<origin>0 0.5</origin>
 				<pos>0.30 0.0775</pos>
 				<size>0.40 0.14</size>
-				<path>./_inc/system2.svg</path>
+				<path>./_inc/system.svg</path>
 			</image>
 			<textlist name="gamelist">
 				<selectorColor>001B9D</selectorColor>
