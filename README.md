@@ -1,5 +1,6 @@
 # es-theme-arcade-crt
 Emulationstation Theme
+(AVAILABLE IN RETROPIE THEME LIST)
 
 A simple theme for Emulation Station and RetroPie with support for the video and pictures.
 Originally based on the Carbon theme by Eric Hettervik; and then full rebuilt.
