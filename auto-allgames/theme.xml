@@ -5,7 +5,7 @@ author:			AndreaMav
 -->
 <theme>
 	<formatVersion>4</formatVersion>
-	<include>./../theme.xml</include>
+	<!--<include>./../theme.xml</include>-->
 
 	<view name="system">
 		<image name="background" extra="true">
@@ -16,11 +16,9 @@ author:			AndreaMav
 			</image>
 
 		<image name="logo">
-			<path>./_inc/system.svg</path>
+			<path>../_inc/system.svg</path>
 		</image>
-	</view>
 
-	<!-- BOX LOGO  -->
 		<image name="logo_helper" extra="true">
 			<path>./../art/arcand.png</path>
 			<origin>0.2 0.5</origin>
@@ -28,12 +26,63 @@ author:			AndreaMav
 			<size>0.4 0.20</size>
 			
 		</image>
+	</view>
+
+	<!-- BOX LOGO  -->
+		
 
 	
-	<view name="system, basic, detailed, video">
-		<image name="logo">
-			<path>./_inc/system.svg</path>
-		</image>
+	<view name="basic, detailed, video">
+			<image name="logo">
+				<origin>0 0.5</origin>
+				<pos>0.05 0.0775</pos>
+				<size>0.40 0.14</size>
+				<path>./_inc/system.svg</path>
+			</image>
+			<image name="background">
+				<origin>0 0.5</origin>
+				<pos>0.5 0.0775</pos>
+				<size>0.40 0.14</size>
+				<path>./../art/arcand2.png</path>
+			</image>
+			<textlist name="gamelist">
+				<selectorColor>001B9D</selectorColor>
+				<selectedColor>ffffff</selectedColor>
+				<primaryColor>ffffff</primaryColor>
+				<secondaryColor>7a6161</secondaryColor>
+				<forceUppercase>1</forceUppercase>
+				<pos>0.030 0.16</pos>
+				<size>0.400 0.8</size>
+				<alignment>left</alignment>
+				<horizontalMargin>0.00</horizontalMargin>
+				<lineSpacing>1.35</lineSpacing>
+				<fontSize>0.045</fontSize>
+				<fontPath>./../_res/fonts/TitilliumWeb-SemiBold.ttf</fontPath>
+			</textlist>
+
+			<image name="md_marquee">
+				<pos>0.48 0.18</pos>
+				<origin>0 0</origin>
+				<size>0.45 0.10</size>
+			</image>
+
+			<image name="background" extra="true">
+				<pos>0.05 0.71</pos>
+				<size>0.38 0.5</size>
+				<path>./_inc/system_and.png</path>
+				<tile>false</tile>
+				<color>ffffff66</color>
+			</image>
+
+			<image name="md_image">
+				<pos>0.5 0.30</pos>			
+				<origin>0 0</origin>
+				<size>0.4 0.5</size>
+			</image>
+			
+
+
+
 	</view>
 
 
@@ -63,16 +112,7 @@ author:			AndreaMav
 			</image>
 
 
-			<image name="bottom2" extra="true">
-				<pos>0.55 0.01</pos>
-				<size>0.330 0.160</size>
-				<path>./../art/arcand.png</path>
-				<tile>false</tile>
-				<!--<rotation>-10</rotation>-->
-		</image>
-
 			
-
 		</view>
 
 	</feature>
