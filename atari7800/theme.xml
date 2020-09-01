@@ -20,12 +20,11 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 		</image>
 	
 		<image name="logo_helper" extra="true">
-			<path>./../art/andmavlog.png</path>
+			<path>./../art/arcand.png</path>
 			<origin>0.2 0.5</origin>
-			<pos>0.65 0.75</pos>
-			<size>0.4 0.13</size>
+			<pos>0.6 0.8</pos>
+			<size>0.4 0.20</size>
 		</image>
-
 	</view>		
 		
 
