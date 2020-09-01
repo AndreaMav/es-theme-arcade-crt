@@ -1,9 +1,9 @@
 <!--
-theme name:		es-arcade-crt
+theme name:		es-arcade-crt-arcade
 version:		2.2
 author:			AndreaMav
 web:			https://github.com/AndreaMav/es-theme-arcade-crt
-Date:			11/05/2020
+Date:			06/05/2020
 -->
 <theme>
 	<formatVersion>4</formatVersion>
@@ -20,12 +20,12 @@ Date:			11/05/2020
 		</image>
 		
         <image name="logo_helper" extra="true">
-			<path>./../art/andmavlog.png</path>
+			<path>./../art/arcand.png</path>
 			<origin>0.2 0.5</origin>
-			<pos>0.65 0.75</pos>
-			<size>0.4 0.13</size>
+			<pos>0.6 0.8</pos>
+			<size>0.4 0.20</size>
+			
 		</image>
-
 
 	</view>
 
@@ -34,13 +34,7 @@ Date:			11/05/2020
 	<view name="basic, detailed, video">
 			<image name="logo">
 				<origin>0 0.5</origin>
-				<pos>0.05 0.0775</pos>
-				<size>0.40 0.14</size>
-				<path>./_inc/system_and.png</path>
-			</image>
-			<image name="background">
-				<origin>0 0.5</origin>
-				<pos>0.5 0.0775</pos>
+				<pos>0.30 0.0775</pos>
 				<size>0.40 0.14</size>
 				<path>./../art/arcand2.png</path>
 			</image>
