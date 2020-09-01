@@ -1,9 +1,7 @@
 <!--
-theme name:		es-arcade-crt-arcade
-version:		2.2
+theme name:		es-arcade-crt-naomi
+version:		1.9
 author:			AndreaMav
-web:			https://github.com/AndreaMav/es-theme-arcade-crt
-Date:			11/05/2020
 -->
 <theme>
 	<formatVersion>4</formatVersion>
@@ -12,14 +10,14 @@ Date:			11/05/2020
 	<view name="system">
 		<image name="background" extra="true">
 				<pos>0.3 0</pos>
-				<size>0.35 0.6</size>
+				<size>0.4 0.6</size>
 				<tile>true</tile>
 				<path>./_inc/system_and.png</path>
 				<tile>false</tile>
 			</image>
 
 		<image name="logo">
-			<path>./_inc/system_svg.png</path>
+			<path>./_inc/system.svg</path>
 		</image>
 
 		
@@ -41,7 +39,7 @@ Date:			11/05/2020
 	
 	<view name="system, basic, detailed">
 		<image name="logo">
-			<path>./_inc/system_svg.png</path>
+			<path>./_inc/system.svg</path>
 		</image>
 	</view>
 
@@ -54,7 +52,7 @@ Date:			11/05/2020
 		<view name="video">
 
 			<image name="logo">
-			<path>./_inc/system_svg.png</path>
+			<path>./_inc/system.png</path>
 		</image>
 	
 
