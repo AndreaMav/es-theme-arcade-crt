@@ -42,13 +42,34 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 
 		
 	
-	<view name="system, basic, detailed, video">
+	<view name="system">
 		<image name="logo">
 			<path>./_inc/system.svg</path>
 		</image>
 	</view>
 
+<view name="basic, detailed, video">
+		
 
+
+			<image name="bottom2" extra="true">
+				<pos>0.55 0.01</pos>
+				<size>0.330 0.160</size>
+				<path>./../art/arcand.png</path>
+				<tile>false</tile>
+				<!--<rotation>-10</rotation>-->
+		</image>
+
+		<textlist name="gamelist">
+				<selectorColor>001B9D</selectorColor>
+				<selectedColor>ffffff</selectedColor>
+				<primaryColor>ffffff</primaryColor>
+				<secondaryColor>7a6161</secondaryColor>
+				<forceUppercase>1</forceUppercase>
+				<pos>0.030 0.190</pos>
+				<size>0.400 0.660</size>
+			</textlist>
+	</view>
 
 
 
@@ -74,34 +95,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 				<size>0.45 0.10</size>
 			</image>
 
-			<text name="rating_label" extra="true">
-					<pos>0.03 0.90</pos>
-					<text>in onore di "Zanac"</text>
-					<color>0000AA</color>
-					<fontPath>./../art/C64.ttf</fontPath>
-					<forceUppercase>1</forceUppercase>
-					<fontSize>0.03</fontSize>
-					<size>0.40 0.008</size>
-				</text>
-
-
-			<image name="bottom2" extra="true">
-				<pos>0.55 0.01</pos>
-				<size>0.330 0.160</size>
-				<path>./../art/arcand.png</path>
-				<tile>false</tile>
-				<!--<rotation>-10</rotation>-->
-		</image>
-
-		<textlist name="gamelist">
-				<selectorColor>001B9D</selectorColor>
-				<selectedColor>ffffff</selectedColor>
-				<primaryColor>ffffff</primaryColor>
-				<secondaryColor>7a6161</secondaryColor>
-				<forceUppercase>1</forceUppercase>
-				<pos>0.030 0.190</pos>
-				<size>0.400 0.660</size>
-			</textlist>
+			
 
 			
 
