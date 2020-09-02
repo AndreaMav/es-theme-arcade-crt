@@ -1,6 +1,6 @@
 <!--
 theme name:		es-arcade-crt-dreamcast
-version:		2.1
+version:		2.2
 author:			AndreaMav
 web:			https://github.com/AndreaMav/es-theme-arcade-crt
 -->
@@ -24,12 +24,12 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 
 	
 		<image name="logo_helper" extra="true">
-			<path>./../art/arcand.png</path>
+			<path>./../art/andmavlog.png</path>
 			<origin>0.2 0.5</origin>
-			<pos>0.6 0.8</pos>
-			<size>0.4 0.20</size>
-			
+			<pos>0.65 0.75</pos>
+			<size>0.4 0.13</size>
 		</image>
+
 	</view>
 	
 	<view name="system, basic">

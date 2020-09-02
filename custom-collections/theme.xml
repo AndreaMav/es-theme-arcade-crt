@@ -20,12 +20,12 @@ Date:			06/05/2020
 		</image>
 		
         <image name="logo_helper" extra="true">
-			<path>./../art/arcand.png</path>
+			<path>./../art/andmavlog.png</path>
 			<origin>0.2 0.5</origin>
-			<pos>0.6 0.8</pos>
-			<size>0.4 0.20</size>
-			
+			<pos>0.65 0.75</pos>
+			<size>0.4 0.13</size>
 		</image>
+
 
 	</view>
 
@@ -71,7 +71,7 @@ Date:			06/05/2020
 				<origin>0 0</origin>
 				<size>0.4 0.5</size>
 			</image>
-			<datetime name="md_releasedate">
+			<!--<datetime name="md_releasedate">
 				<fontPath>./../art/piccolo.ttf</fontPath>
 				<color>ffffff</color>
 				<format>(c)%Y</format>
@@ -133,7 +133,7 @@ Date:			06/05/2020
                 <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                 <pos>1 1</pos>
                 <size>0.001 0.001</size>
-            </text>
+            </text>-->
 
 
 

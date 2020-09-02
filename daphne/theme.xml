@@ -124,24 +124,16 @@ author:			AndreaMav
 				<size>0.4 0.038</size>
 			</text>	
 
-			
+			<text name="md_lbl_rating">
+                <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
+                <pos>1 1</pos>
+                <size>0.001 0.001</size>
+            </text>
 
-
-			
-	
-			<text name="md_lbl_rating, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_publisher">
-                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
-                        <pos>1 1</pos>
-                        <size>0.001 0.001</size>
-                    </text>
-
-        	<datetime name="md_lbl_lastplayed">
-                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
-                        <pos>1 1</pos>
-                        <size>0.001 0.001</size>
-                    </datetime>
-
-			
+            <rating name="md_rating">
+				<filledPath>./../art/invisible.png</filledPath>
+				<unfilledPath>./../art/invisible.png</unfilledPath>
+			</rating>
 
 		</view>
 
