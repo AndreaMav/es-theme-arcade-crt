@@ -103,7 +103,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 				<size>0.25 0.038</size>
 			</text>	
 
-			<text name="releasedate_label" extra="true">
+			<!--<text name="releasedate_label" extra="true">
 					<pos>0.180 0.910</pos>
 					<text>Release Date:</text>
 					<color>00ffd9</color>
@@ -141,7 +141,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
                         <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 1</pos>
                         <size>0.001 0.001</size>
-                    </datetime>
+                    </datetime>-->
 
 	</view>
 
@@ -218,7 +218,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 				<size>0.25 0.038</size>
 			</text>	
 
-			<text name="releasedate_label" extra="true">
+			<!--<text name="releasedate_label" extra="true">
 					<pos>0.180 0.910</pos>
 					<text>Release Date:</text>
 					<color>00ffd9</color>
@@ -256,7 +256,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
                         <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 1</pos>
                         <size>0.001 0.001</size>
-                    </datetime>
+                    </datetime>-->
 
 
 		</view>
