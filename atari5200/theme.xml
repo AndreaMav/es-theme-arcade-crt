@@ -9,7 +9,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 	
 	<view name="system">
 		<image name="background" extra="true">
-				<size>1 0.5</size>
+				<size>1 0.4</size>
 				<tile>true</tile>
 				<path>./_inc/system_and.png</path>
 				<tile>false</tile>
@@ -38,20 +38,20 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 
 		</view>
 
-	<view name="detailed">
+	
+	
+	<view name="detailed, video">
+
 		<image name="md_image">
 				<pos>0.03 0.23</pos>
 				<origin>0 0</origin>
 				<size>0.35 0.50</size>
 			</image>
-	</view>
-	
-	<view name="detailed, video">
 		<image name="logo">
 			<path>./_inc/system.svg</path>
-			<pos>0.10 0.10</pos>			
+			<pos>0.02 0.10</pos>			
 			<origin>0 0</origin>
-			<size>0.3 0.10</size>
+			<size>0.35 0.10</size>
 		</image>
 
 		<image name="logo_helper" extra="true">

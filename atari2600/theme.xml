@@ -1,7 +1,9 @@
 <!--
-theme name:		es-arcade-crt_atari2600
-version:		1.9
+theme name:		es-arcade-crt-arcade
+version:		2.2
 author:			AndreaMav
+web:			https://github.com/AndreaMav/es-theme-arcade-crt
+Date:			06/05/2020
 -->
 <theme>
     <formatVersion>3</formatVersion>
@@ -27,11 +29,10 @@ author:			AndreaMav
 
         
 		<image name="logo_helper" extra="true">
-			<path>./../art/arcand.png</path>
+			<path>./../art/andmavlog.png</path>
 			<origin>0.2 0.5</origin>
-			<pos>0.6 0.8</pos>
-			<size>0.4 0.20</size>
-			
+			<pos>0.65 0.75</pos>
+			<size>0.4 0.13</size>
 		</image>
 
 	</view>
