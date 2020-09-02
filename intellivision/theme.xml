@@ -1,6 +1,6 @@
 <!--
 theme name:		es-arcade-crt-intellivision
-version:		2.2
+version:		2.1
 author:			AndreaMav
 web:			https://github.com/AndreaMav/es-theme-arcade-crt
 -->
@@ -10,7 +10,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 
 	<view name="system">
 		<image name="background" extra="true">
-				<size>1 0.6</size>
+				<size>1 0.5</size>
 				<tile>true</tile>
 				<path>./_inc/system_and.png</path>
 				<tile>false</tile>
