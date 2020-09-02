@@ -106,7 +106,7 @@ Date:			12/05/2020
 				<pos>0.76 0.1</pos>
 			</text>
 			
-			<datetime name="md_lastplayed">
+			<!--<datetime name="md_lastplayed">
 				<fontPath>./../art/piccolo.ttf</fontPath>
 				<color>00ffd9</color>
 				<pos>0.76 0.13</pos>
@@ -121,7 +121,7 @@ Date:			12/05/2020
 				<fontPath>./../art/piccolo.ttf</fontPath>
 				<color>00ffd9</color>
 				<pos>0.76 0.20</pos>
-			</text>	
+			</text>	-->
 	</view>
 
 <feature supported="video">
