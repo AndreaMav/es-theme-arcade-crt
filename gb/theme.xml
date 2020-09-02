@@ -32,13 +32,13 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 	</view>
 
 	
-	<view name="system, basic">
+	<view name="system">
 		<image name="logo">
 			<path>./_inc/system.svg</path>
 		</image>
 	</view>
 
-	<view name="detailed">
+	<view name="detailed,video,basic">
 
 			<image name="md_image">
 				<pos>0.565 0.115</pos>			
@@ -81,21 +81,19 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 				<tile>false</tile>
 			</image>
 
-			
-
-
-		<text name="md_lbl_rating, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_developer, md_lbl_publisher">
+			<text name="md_lbl_rating, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_developer, md_lbl_publisher,md_releasedate, md_lbl_lastplayed, md_lbl_releasedate">
                         <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 1</pos>
                         <size>0.001 0.001</size>
                     </text>
 
-        <datetime name="md_releasedate, md_lbl_lastplayed, md_lbl_releasedate">
-                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
-                        <pos>1 1</pos>
-                        <size>0.001 0.001</size>
-                    </datetime>
+            <rating name="md_rating">
+				<filledPath>./../art/invisible.png</filledPath>
+				<unfilledPath>./../art/invisible.png</unfilledPath>
+			</rating>
 
+
+		
 	</view>
 
 
@@ -121,48 +119,7 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 			</image>
 									
 			
-			<image name="background" extra="true">
-				<pos>0.47 0</pos>
-				<size>0.5 0.95</size>
-				<path>./_inc/gb1.png</path>
-				<tile>false</tile>
-			</image>
-
-			<textlist name="gamelist">
-				<selectorColor>001B9D</selectorColor>
-				<selectedColor>ffffff</selectedColor>
-				<primaryColor>ffffff</primaryColor>
-				<secondaryColor>7a6161</secondaryColor>
-				<forceUppercase>1</forceUppercase>
-				<pos>0.030 0.23</pos>
-				<size>0.400 0.600</size>
-				<alignment>left</alignment>
-				<horizontalMargin>0.00</horizontalMargin>
-				<fontSize>0.045</fontSize>
-				<fontPath>./../_res/fonts/TitilliumWeb-SemiBold.ttf</fontPath>
-			</textlist>
-
-			<image name="bottom2" extra="true">
-				<pos>0.010 0.83</pos>
-				<size>0.330 0.160</size>
-				<path>./../art/arcand.png</path>
-				<tile>false</tile>
-			</image>
-
 			
-
-
-		<text name="md_lbl_rating, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_developer, md_lbl_publisher">
-                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
-                        <pos>1 1</pos>
-                        <size>0.001 0.001</size>
-                    </text>
-
-        <datetime name="md_releasedate, md_lbl_lastplayed, md_lbl_releasedate">
-                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
-                        <pos>1 1</pos>
-                        <size>0.001 0.001</size>
-                    </datetime>
 
 		</view>
 

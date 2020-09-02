@@ -32,22 +32,20 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 	</view>
 
 	
-	<view name="system, basic">
+	<view name="system">
 		<image name="logo">
 			<path>./_inc/system.svg</path>
 		</image>
 	</view>
 
 
-	<view name="detailed">
+	<view name="detailed,video,basic">
 
 		<image name="md_image">
 				<pos>0.345 0.080</pos>			
 				<origin>0 0</origin>
 				<size>0.310 0.21</size>
 		</image>
-
-									
 			
 			<image name="background" extra="true">
 				<pos>0 0</pos>
@@ -86,24 +84,17 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 				<pos>0.010 0.520</pos>
             </text>
 
-
-	
-		<text name="md_lbl_rating, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_developer, md_lbl_publisher">
+			<text name="md_lbl_rating, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_developer, md_lbl_publisher,md_releasedate, md_lbl_lastplayed, md_lbl_releasedate">
                         <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
                         <pos>1 1</pos>
                         <size>0.001 0.001</size>
                     </text>
 
-        <datetime name="md_releasedate, md_lbl_lastplayed, md_lbl_releasedate">
-                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
-                        <pos>1 1</pos>
-                        <size>0.001 0.001</size>
-                    </datetime>
-
-
+            <rating name="md_rating">
+				<filledPath>./../art/invisible.png</filledPath>
+				<unfilledPath>./../art/invisible.png</unfilledPath>
+			</rating>
 	</view>
-
-
 
 
 <feature supported="video">
@@ -115,65 +106,11 @@ web:			https://github.com/AndreaMav/es-theme-arcade-crt
 				<origin>0 0</origin>
 				
 				<size>0.310 0.21</size>
-				<delay>0.2</delay>
+				<delay>1</delay>
 				<default></default>
 				<showSnapshotNoVideo>true</showSnapshotNoVideo>
 				<showSnapshotDelay>false</showSnapshotDelay>
 			</video>
-
-									
-			
-			<image name="background" extra="true">
-				<pos>0 0</pos>
-				<size>1 0.5</size>
-				<path>./_inc/gg.png</path>
-				<tile>false</tile>
-			</image>
-
-			<textlist name="gamelist">
-				<selectorColor>1c1c1c</selectorColor>
-				<selectedColor>ffffff</selectedColor>
-				<primaryColor>ffffff</primaryColor>
-				<secondaryColor>7a6161</secondaryColor>
-				<forceUppercase>1</forceUppercase>
-				<pos>0.60 0.5</pos>
-				<size>0.330 0.600</size>
-				<alignment>left</alignment>
-				<horizontalMargin>0.00</horizontalMargin>
-				<fontSize>0.045</fontSize>
-				<fontPath>./../_res/fonts/TitilliumWeb-SemiBold.ttf</fontPath>
-			</textlist>
-
-			<image name="bottom2" extra="true">
-				<pos>0.010 0.83</pos>
-				<size>0.330 0.160</size>
-				<path>./../art/arcand.png</path>
-				<tile>false</tile>
-			</image>
-
-			<text name="md_description">
-                <color>ffffff</color>
-				<forceUppercase>1</forceUppercase>
-				<fontPath>./../_res/fonts/TitilliumWeb-SemiBold.ttf</fontPath>
-				<fontSize>0.04</fontSize>
-				<size>0.5 0.29</size>
-				<pos>0.010 0.520</pos>
-            </text>
-
-
-	
-		<text name="md_lbl_rating, md_lbl_playcount, md_playcount, md_publisher, md_lbl_genre, md_lbl_developer, md_lbl_publisher">
-                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
-                        <pos>1 1</pos>
-                        <size>0.001 0.001</size>
-                    </text>
-
-        <datetime name="md_releasedate, md_lbl_lastplayed, md_lbl_releasedate">
-                        <fontPath>./../_res/fonts/AdobeBlank.ttf</fontPath>
-                        <pos>1 1</pos>
-                        <size>0.001 0.001</size>
-                    </datetime>
-
 		</view>
 
 	</feature>
