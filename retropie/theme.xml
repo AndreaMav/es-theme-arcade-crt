@@ -10,7 +10,7 @@ author:			AndreaMav
 
 	<view name="system">
 		<image name="background" extra="true">
-				<size>1 0.5</size>
+				<size>1 0.4</size>
 				<tile>true</tile>
 				<path>./_inc/system_and.png</path>
 				<tile>false</tile>
@@ -43,7 +43,31 @@ author:			AndreaMav
 				<secondaryColor>7a6161</secondaryColor>
 				<forceUppercase>1</forceUppercase>
 				<fontPath>./../art/piccolo.ttf</fontPath>
+				<fontSize>0.035</fontSize>
 		</textlist>
+
+		<rating name="md_rating">
+			<filledPath>./../art/invisible.png</filledPath>
+			<unfilledPath>./../art/invisible.png</unfilledPath>
+		</rating>
+
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed,">
+			<color>ffffff</color>
+			<pos>1 1</pos>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./../art/piccolo.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+		</text>
+
+		
+		<text name="md_developer, md_publisher, md_genre, md_players, md_description">
+			<color>ffffff</color>
+			<pos>1 1</pos>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./../art/piccolo.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+		</text>
+
 	</view>
 
 
