@@ -1,7 +1,7 @@
 <!--
 theme name:		es-arcade-crt
 website:        https://github.com/AndreaMav/es-theme-arcade-crt
-version:		2.0
+version:		2.0a
 author:			AndreaMav
 license:		creative commons CC-BY-NC-SA
 based on:		"eudora" by AmadhiX
@@ -11,12 +11,7 @@ based on:		"eudora" by AmadhiX
 
 <theme>
     <formatVersion>4</formatVersion>
-    <include>./config.xml</include>
-
-
 	<view name="system">
-
-	
         <image name="system-background" extra="true">
             <path>./_res/images/background.png</path>
             <origin>0 0</origin>
@@ -43,26 +38,25 @@ based on:		"eudora" by AmadhiX
             <fontPath>./_res/fonts/TitilliumWeb-Regular.ttf</fontPath>
             <fontSize>0.035</fontSize>
 		</helpsystem>
-
         
+        <image name="bottom3" extra="true">
+            <path>./art/zanac_logo.png</path>
+            <origin>0.2 0.5</origin>
+            <pos>0.2 0.87</pos>
+            <size>0.33 0.13</size>
+        </image>
+        <image name="bottom2" extra="true">
+            <path>./art/myzar.png</path>
+            <origin>0.2 0.5</origin>
+            <pos>0.1 0.74</pos>
+            <size>0.33 0.13</size>
+        </image>
         <image name="logo_helper" extra="true">
             <path>./art/arcand.png</path>
             <origin>0.2 0.5</origin>
             <pos>0.6 0.8</pos>
             <size>0.4 0.20</size>
-            
         </image>
-
-        
-        <image name="bottom2" extra="true">
-            <path>./art/myzar.png</path>
-            <origin>0.2 0.5</origin>
-            <pos>0.1 0.75</pos>
-            <size>0.33 0.13</size>
-            
-        </image>
-
-	
 	</view>
 
     <!-- Custom Carousel System View -->
